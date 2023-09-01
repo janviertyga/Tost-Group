@@ -1,0 +1,118 @@
+body {
+    background-position: 100%;
+    
+}
+.main {
+    background-color: white;
+    color: black;
+    background-color: white;
+    border: 10px solid black;
+    border-radius: 0px;
+
+}
+.topnav {
+    overflow: hidden;
+  }
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 25px 30px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+  }
+  .image {
+    padding-left: 150px;
+  }
+  h3 {
+    padding-left: 160px;
+  }
+  p {
+    padding-left: 70px;
+  }
+  .card {
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 70px;
+  }
+  .main2 {
+    background-color: rgb(55, 77, 205);
+    color: black;
+    border: 10px solid black;
+    border-radius: 0px;
+    text-align: center;
+}
+.image2 {
+  padding-right: 25px;
+}
+.flex-container3 {
+  display: flex;
+  font-size: 30px;
+}
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
+.main3 {
+    background-color: rgb(28, 218, 37);
+    color: black;
+    border: 10px solid black;
+    border-radius: 0px; 
+}
+.form {
+    padding-left: 150px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input[type="text"] {
+    width: 200px;
+    height: 40px;
+}
+input {
+    text-align: justify;
+  }
+input[type="comment"] {
+    height: 80px ;
+    width: 200px;
+}
+button[type="send"] {
+    height: 30px;
+    width: 80px;
+}
+.main4 {
+    background-color: rgb(26, 211, 195);
+    color: black;
+    border: 10px solid black;
+    border-radius: 0px;
+} 
+.flex-container1{
+  display: flex;
+  font-size: 20px;
+}
+.flex-items1 {
+  padding-left: 80px;
+  font-size: 25px;
+}
+.flex-items2 {
+  padding-left: 120px;
+  font-size: 25px;
+}
+h2{
+  padding-left: 90px;
+}
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  align-items: center;
+  padding-left: 60px;
+}
+
